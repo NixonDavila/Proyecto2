@@ -1,0 +1,25 @@
+.pagi1{
+    background-image: linear-gradient(to left, magenta, tomato);
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo1{
+    font-size: 70px;
+}
+
+
+
+.ingresar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.b-ingre{
+color: azure;
+    background-color: black;
+}
