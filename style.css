@@ -64,8 +64,8 @@ height: 200%;
 
 width: 200%;
 
-padding-top: 200px;
-padding-bottom:93px ;
+padding-top: 100px;
+padding-bottom:98px ;
 
 display: flex;
 
@@ -90,7 +90,7 @@ justify-content:space-around
 
 #calculadora table{ color: black;
 	height: 200px;
-    width: 300px;
+    width: 200px;
 }
 
 
@@ -160,5 +160,14 @@ justify-content:space-around
 #calculadora button.operacion#clear{
 	background-color: steelblue;
 }
+
+
+
+
+
+
+
+
+
 
 
