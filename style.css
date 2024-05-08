@@ -206,3 +206,48 @@ justify-content:space-around
   text-align: center;
   font-weight: bold;
 }
+
+
+
+
+
+
+#box3
+{
+  border-radius: 5px;
+  border: solid #0080FF;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+
+
+
+#boton
+{
+
+  border-radius: 50px;
+  border: solid #58D3F7;
+  background-color: #58D3F7;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+
+
+
+
+#r3
+{
+  font-size: 25px;
+}
+
+.credito
+{
+  text-align: right;
+  font-size: 13px;
+  color: #58D3F7;
+}

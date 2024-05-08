@@ -66,3 +66,24 @@ function añadirNumeros(e){
 		}
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+//Funcion para calcular la propina
+function calularPropina()
+{
+//obtener datos
+var totalCompra = document.getElementById('box').value;
+var porcentajePropina = document.getElementById('box2').value;
+var totalPersonas = document.getElementById('box3').value;
+
+
+}
