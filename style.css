@@ -62,14 +62,15 @@ z-index: 1;}
 .lugar{
 height: 200%;
 
-width: 200%;
+width: 140%;
 
-padding-top: 100px;
-padding-bottom:98px ;
+padding-top: 50px;
+padding-bottom:68px ;
 
 display: flex;
 
 justify-content:space-around
+
 
 
 }
@@ -171,3 +172,37 @@ justify-content:space-around
 
 
 
+.contenido
+{
+  text-align: center;
+  color: #ffffff;
+  border-radius: 15px;
+  width: 500px;
+  margin: 0 auto;
+  background-color:#0080FF;
+}
+
+
+
+
+#box
+{
+  border-radius: 5px;
+  border: solid #0080FF;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+
+
+#box2
+{
+  border-radius: 5px;
+  border: solid #0080FF;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
